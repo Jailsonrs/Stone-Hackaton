@@ -16,7 +16,7 @@
 	--Aplicação em Shiny (R) sintetizando todos os passos anteriores.
 
 	 
-## EStrutura do diretório
+## Estrutura do diretório
 ```bash
 ├── data
 │   ├── raw
