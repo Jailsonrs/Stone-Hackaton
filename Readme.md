@@ -16,3 +16,35 @@
 	--Aplicação em Shiny (R) sintetizando todos os passos anteriores.
 
 	 
+## EStrutura do diretório
+
+├── data
+│   ├── raw
+│   │   ├── dados_geral.RDS
+│   │   ├── portifolio_clientes.RDS
+│   │   ├── portifolio_comunicados.RDS
+│   │   └── portifolio_tpv.RDS
+│   └── transformed
+├── Dicionаrio de Dados - Data Challenge 2022.xlsx
+├── docs
+│   ├── dependencias.yaml
+│   ├── descricao do case - Data Challenge 2022.pdf
+│   ├── Diagrama MER - Data Challenge 2022.pdf
+│   ├── frame de avaliacao.pdf
+│   ├── outline.md
+│   └── requisitos.md
+├── notebooks
+│   └── ead.nb
+├── Readme.md
+├── shiny
+│   ├── index.html
+│   ├── modules
+│   ├── server.R
+│   ├── ui.R
+│   └── www
+│       ├── ls
+│       └── styles.css
+└── src
+    ├── py
+    └── R
+        └── ead.R
