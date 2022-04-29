@@ -17,7 +17,7 @@
 
 	 
 ## EStrutura do diretório
-
+```bash
 ├── data
 │   ├── raw
 │   │   ├── dados_geral.RDS
@@ -48,3 +48,5 @@
     ├── py
     └── R
         └── ead.R
+```
+
